@@ -16,6 +16,7 @@ Accuracy: ~33%
 
 
 2. ResNet-18
+10 epochs
 Pretrained ResNet-18 model used
 Better data augmentation (jitter + normalization)
 Weighted loss used for imbalance
