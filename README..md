@@ -3,7 +3,7 @@ Dataset
 ISIC dataset used
 ~2,000 images
 9 skin lesion classes
-Random split used
+Random split used -> to split training data into training and validation
 
 
 
